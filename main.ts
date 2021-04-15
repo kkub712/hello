@@ -17,4 +17,6 @@ basic.forever(function () {
         . . # . .
         `)
     basic.pause(100)
+    basic.showString("!AaAaAa?")
+    basic.pause(100)
 })
